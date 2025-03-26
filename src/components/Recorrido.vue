@@ -11,6 +11,7 @@ export default{
                 {nc:12345, nombre:'Marco', carrerar:'Civil' }
 
             ]
+            // id,nombre completo,lo que le gusta a la persona
         }
     }
 }

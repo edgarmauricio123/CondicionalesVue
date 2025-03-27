@@ -1,6 +1,5 @@
 <script>
 export default{
-
     data(){
         return{
             personas:[
@@ -14,8 +13,6 @@ export default{
                 {id:8, nombrecompleto:'Yael Trinidad', diciplina:'Futbol' },
                 {id:9, nombrecompleto:'Angel Reyes', diciplina:'Box' },
                 {id:10, nombrecompleto:'Florencia Sarmiento', diciplina:'Box' }
-
-
             ]
         }
     }
@@ -24,7 +21,6 @@ export default{
 
 <template>
     <div class="container">
-
         <div class="row">
        <div class="cold-md-12">
            <div class="card mt-4">
@@ -50,8 +46,6 @@ export default{
 .card{
     box-shadow: 5px 5px 15px rgba(24, 23, 23, 0.6);
     border-radius: 5px;
-
-
 }
 h3 {
     color: black;
@@ -65,9 +59,7 @@ ul{
     list-style-type: none;  
     padding: 0%;
 }
-
 .lii{
-
     color: black;
     background-color: #cde9ca;
     border-radius: 15px;
@@ -76,13 +68,10 @@ ul{
     text-align: center;
     box-shadow: 5px 5px 15px rgba(24, 23, 23, 0.6);
     font-family: cursive;
-
 }
 .titulo{
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;  
-  
+
 }
-
-
 </style>

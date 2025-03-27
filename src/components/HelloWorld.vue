@@ -20,10 +20,7 @@ const apellidos = ref("Sarmiento Ruiz")
         <h6>{{ apellidos }}</h6>
       </div>
     </div>
-
-
   </div>
-
 </template>
 
 <style scoped>

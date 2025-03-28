@@ -50,7 +50,7 @@ export default{
 h3 {
     color: black;
     background-color: rgb(220, 131, 198);
-    border-radius: 15px;
+    
     padding: 10px;
 }
 ul{

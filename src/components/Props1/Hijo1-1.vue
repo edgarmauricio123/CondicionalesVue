@@ -1,11 +1,11 @@
 <script setup>
 defineProps({
-  edad: String,
+  descripcion: String,
 })
 </script>
 <template>
-<h6>Soy el componente Hijo 2 </h6>
-<p>{{  edad}}</p>
+<p>{{ descripcion }}</p>
+
 </template>
 
 <style scoped>

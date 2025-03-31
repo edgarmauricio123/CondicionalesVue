@@ -1,14 +1,8 @@
 <script setup>
-
-
-
-
 defineProps({
   edad: String,
 })
-
 </script>
-
 <template>
 <h6>Soy el componente Hijo 1 </h6>
 <p>{{ edad }}</p>
